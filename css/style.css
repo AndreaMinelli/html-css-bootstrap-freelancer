@@ -2,17 +2,24 @@
 
 header {
     height: 100px;
-    background-color: rgb(44, 62, 80);
 }
 
 section {
     min-height: 400px;
 }
 
+footer {
+    height: 80px;
+}
+
 /* Utils */
 
 .bg-watergreen {
     background-color: rgb(26, 188, 156);
+}
+
+.bg-darkgrey {
+    background-color: rgb(44, 62, 80);
 }
 
 .card-immagine {
@@ -22,4 +29,10 @@ section {
 
 #address {
     background-color: rgb(58, 84, 109);
+}
+
+@media screen and (min-width:992px) {
+    .small-lg {
+        font-size: 12px;
+    }
 }
