@@ -1,0 +1,16 @@
+/* General */
+
+header {
+    height: 100px;
+    background-color: rgb(44, 62, 80);
+}
+
+section {
+    height: 400px;
+}
+
+/* Utils */
+
+.bg-watergreen {
+    background-color: rgb(26, 188, 156);
+}
