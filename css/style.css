@@ -27,6 +27,21 @@ footer {
     background-color: dodgerblue;
 }
 
+span.star-line {
+    display: inline-block;
+    border: 2px solid currentColor;
+    border-radius: 5px;
+    width: 15%;
+}
+
+/* Section Jumbo */
+
+#jumbo figure {
+    width: 200px;
+}
+
+/* Section Address */
+
 #address {
     background-color: rgb(58, 84, 109);
 }
