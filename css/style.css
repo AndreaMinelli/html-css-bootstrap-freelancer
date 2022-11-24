@@ -14,3 +14,8 @@ section {
 .bg-watergreen {
     background-color: rgb(26, 188, 156);
 }
+
+.card-immagine {
+    height: 200px;
+    background-color: dodgerblue;
+}
