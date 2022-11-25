@@ -34,6 +34,12 @@ span.star-line {
     width: 15%;
 }
 
+/* Header */
+
+header .navbar-dark {
+    --bs-navbar-toggler-border-color: rgb(255, 255, 255);
+}
+
 /* Section Jumbo */
 
 #jumbo figure {
