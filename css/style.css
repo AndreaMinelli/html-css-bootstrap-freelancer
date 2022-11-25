@@ -4,10 +4,6 @@ header {
     height: 100px;
 }
 
-footer {
-    height: 80px;
-}
-
 /* Utils */
 
 .bg-watergreen {
@@ -61,10 +57,23 @@ header .navbar-dark {
     --bs-btn-font-size: 1.2rem;
 }
 
-/* Section Address */
+/* Footer Top */
 
-#address {
+.footer-top {
     background-color: rgb(58, 84, 109);
+}
+
+.footer-top .fa-brands {
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.footer-top a {
+    color: rgb(26, 188, 156);
 }
 
 @media screen and (min-width:992px) {
