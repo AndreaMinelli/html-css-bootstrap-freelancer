@@ -54,6 +54,7 @@ header .navbar-dark {
 
 #contact .btn-success {
     --bs-btn-bg: rgb(26, 188, 156);
+    --bs-btn-hover-bg: rgb(26, 188, 156);
     --bs-btn-font-size: 1.2rem;
 }
 
