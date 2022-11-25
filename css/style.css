@@ -22,6 +22,10 @@ footer {
     background-color: rgb(44, 62, 80);
 }
 
+.font-darkgrey {
+    color: rgb(44, 62, 80);
+}
+
 .card-immagine {
     height: 200px;
     background-color: dodgerblue;
