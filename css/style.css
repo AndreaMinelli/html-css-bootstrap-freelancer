@@ -46,6 +46,12 @@ header .navbar-dark {
     width: 200px;
 }
 
+/* Section About */
+
+#about p {
+    font-size: 18px;
+}
+
 /* Section Address */
 
 #address {
