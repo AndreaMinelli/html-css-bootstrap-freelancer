@@ -76,6 +76,16 @@ header .navbar-dark {
     color: rgb(26, 188, 156);
 }
 
+@media screen and (min-width:768px) {
+    .footer-top h6 {
+        font-size: 22px;
+    }
+
+    .footer-top p {
+        font-size: 16px;
+    }
+}
+
 @media screen and (min-width:992px) {
     .small-lg {
         font-size: 12px;
