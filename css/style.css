@@ -4,10 +4,6 @@ header {
     height: 100px;
 }
 
-section {
-    min-height: 400px;
-}
-
 footer {
     height: 80px;
 }
@@ -24,11 +20,6 @@ footer {
 
 .font-darkgrey {
     color: rgb(44, 62, 80);
-}
-
-.card-immagine {
-    height: 200px;
-    background-color: dodgerblue;
 }
 
 span.star-line {
@@ -54,6 +45,20 @@ header .navbar-dark {
 
 #about p {
     font-size: 18px;
+}
+
+/* Section Contact */
+
+#contact input::placeholder,
+#contact textarea::placeholder {
+    color: rgb(44, 62, 80);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#contact .btn-success {
+    --bs-btn-bg: rgb(26, 188, 156);
+    --bs-btn-font-size: 1.2rem;
 }
 
 /* Section Address */
